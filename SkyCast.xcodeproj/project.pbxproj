@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10772BF32B563E75006239B0 /* SkyCastManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10772BF22B563E75006239B0 /* SkyCastManager.swift */; };
 		10F478122B55B55B009B1EFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F478112B55B55B009B1EFC /* AppDelegate.swift */; };
 		10F478142B55B55B009B1EFC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F478132B55B55B009B1EFC /* SceneDelegate.swift */; };
 		10F478162B55B55B009B1EFC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F478152B55B55B009B1EFC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		10772BF22B563E75006239B0 /* SkyCastManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkyCastManager.swift; sourceTree = "<group>"; };
 		10F4780E2B55B55B009B1EFC /* SkyCast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkyCast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10F478112B55B55B009B1EFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10F478132B55B55B009B1EFC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				10F4781A2B55B55C009B1EFC /* Assets.xcassets */,
 				10F4781C2B55B55C009B1EFC /* LaunchScreen.storyboard */,
 				10F4781F2B55B55C009B1EFC /* Info.plist */,
+				10772BF22B563E75006239B0 /* SkyCastManager.swift */,
 			);
 			path = SkyCast;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10772BF32B563E75006239B0 /* SkyCastManager.swift in Sources */,
 				10F478162B55B55B009B1EFC /* ViewController.swift in Sources */,
 				10F478122B55B55B009B1EFC /* AppDelegate.swift in Sources */,
 				10F478142B55B55B009B1EFC /* SceneDelegate.swift in Sources */,
